@@ -1,0 +1,36 @@
+/*body {
+    padding-left: 5em;
+    padding-right: 5em;
+    font-family: Georgia, "Arial Rounded MT Bold",
+    Times, serif;
+    color: black;
+    background-color: #FFFFFF }
+*/
+html {
+    background-image: url("../images/portada2.jpg");
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+
+body {
+    padding-left: 15em;
+    padding-right: 15em;
+    color: #666666;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.80857;
+    overflow-x: hidden !important;
+}
+
+#sidebar {
+    color: #f2184f;
+}
+
+h3 {
+    color: #0079C8;
+    font-family: 'Roboto', sans-serif;
+}
+
+strong {
+    color: black;
+}
